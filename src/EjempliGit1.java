@@ -6,6 +6,8 @@ public class EjempliGit1 {
 		
 		System.out.println("Hola profe Git");
 		
+		String nombre="daniel";
+		
 	}
 
 }
